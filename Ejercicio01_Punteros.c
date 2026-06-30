@@ -12,7 +12,7 @@ int main() {
 
     printf("\n");
     printf("%-10s %-12s %-10s\n", "Numero", "Cuadrado", "Cubo");
-    printf("--------------------------------------\n");
+    printf("\n");
 
     int i;
     int *pI = &i;
